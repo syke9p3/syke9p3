@@ -1,6 +1,8 @@
-### Hello, I'm Kenth 👋
+\> syke9p3
 
-Computer Science student who is constantly learning different new things related to software development
+## Hello, I'm Kenth 👋
+
+Computer Science student constantly learning different new things related to software development
 
 
 <!--

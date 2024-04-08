@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello, I'm Kenth 👋
+
+Computer Science student who is constantly learning different new things related to software development
+
 
 <!--
 **syke9p3/syke9p3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -6,7 +6,7 @@ Computer Science student constantly learning different new things related to sof
 
 ## Languages and Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,c,python,pytorch,java,spring,mysql,php,react,tailwind,nodejs,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,c,c++,python,pytorch,java,spring,mysql,php,react,tailwind,nodejs,express)](https://skillicons.dev)
 
 ## Tools
 [![Tools](https://skillicons.dev/icons?i=git,github,vscode,vite,postman,bash,photoshop,figma)](https://skillicons.dev)

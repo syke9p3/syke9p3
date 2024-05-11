@@ -10,18 +10,20 @@ Computer Science student constantly learning different new things related to sof
 ![CSS3](https://img.shields.io/badge/-CSS3-1d1f21?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1d1f21?style=flat&logo=javascript)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-1d1f21?style=flat&logo=bootstrap&logoColor=563D7C)
+![PHP](https://img.shields.io/badge/-PHP-1d1f21?style=flat&logo=php&logoColor=777BB4)
+![React](https://img.shields.io/badge/-React-1d1f21?style=flat&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-1d1f21?style=flat&logo=tailwind-css&logoColor=38B2AC)
+![Node.js](https://img.shields.io/badge/-Node.js-1d1f21?style=flat&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-1d1f21?style=flat&logo=express)
+![MySQL](https://img.shields.io/badge/-MySQL-1d1f21?style=flat&logo=mysql)
 ![C](https://img.shields.io/badge/-C-1d1f21?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-1d1f21?style=flat&logo=c%2B%2B&logoColor=00599C)
 ![Python](https://img.shields.io/badge/-Python-1d1f21?style=flat&logo=python&logoColor=3776AB)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-1d1f21?style=flat&logo=pytorch&logoColor=EE4C2C)
 ![Java](https://img.shields.io/badge/-Java-1d1f21?style=flat&logo=java&logoColor=007396)
 ![Spring](https://img.shields.io/badge/-Spring-1d1f21?style=flat&logo=spring&logoColor=6DB33F)
-![MySQL](https://img.shields.io/badge/-MySQL-1d1f21?style=flat&logo=mysql)
-![PHP](https://img.shields.io/badge/-PHP-1d1f21?style=flat&logo=php&logoColor=777BB4)
-![React](https://img.shields.io/badge/-React-1d1f21?style=flat&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-1d1f21?style=flat&logo=tailwind-css&logoColor=38B2AC)
-![Node.js](https://img.shields.io/badge/-Node.js-1d1f21?style=flat&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-1d1f21?style=flat&logo=express)
+
+
 
 
 

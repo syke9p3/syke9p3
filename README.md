@@ -27,7 +27,6 @@ Computer Science student constantly learning different new things related to sof
 
 ### Tools
 ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-1d1f21?style=flat&logo=Visual-Studio-Code&logoColor=007ACC)
-
 ![Linux](https://img.shields.io/badge/-Linux-1d1f21?style=flat&logo=Linux&logoColor=FCC624)
 ![Linux Mint](https://img.shields.io/badge/-Linux%20Mint-1d1f21?style=flat&logo=linuxmint&logoColor=#87CF3E)
 ![Bash](https://img.shields.io/badge/-GNU%20Bash-1d1f21?style=flat&logo=GNU-Bash&logoColor=4EAA25)

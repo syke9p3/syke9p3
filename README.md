@@ -2,7 +2,7 @@
 
 ## Hello, I'm Kenth 👋
 
-Computer Science student constantly learning different new things related to software development
+Computer Science student constantly learning different new things related to software development. I am currently learning more about open-source contributions.
 
 
 ### Languages and Technologies

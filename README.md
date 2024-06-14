@@ -82,7 +82,7 @@ These are the tools and platforms I use for development.
 
 ## Languages and Technologies
 
-I've experienced and applied these technologies in some of my projects.
+These are the languages and technologies that I have experience with and applied in my past projects as well as the tools and platforms in my development process.
 
 ### Web Development
 
@@ -120,7 +120,7 @@ I've experienced and applied these technologies in some of my projects.
 
 ### Tools & Platforms
 
-These are the tools and platforms I use for development.
+
 
 #### Development Tools
 ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)

@@ -2,23 +2,23 @@
 
 ## Hello, I'm Kenth 👋
 
-Computer Science student constantly learning new things related to software development. I am currently learning more about open-source contributions.
+Aspiring fullstack developer studying Computer Science at PUP. Currently learning about open-source contributions.
 
-- 🔭 I’m currently working on **[VTuber style logos ](https://github.com/syke9p3/Syke-VTuber-Icons)**
-- 🌱 I’m currently learning more about **[open-source contribution](https://intro.opensauced.pizza/#/README)**
-- 📫 How to reach me: **gargarkenth93@gmail.com**
+- 🔭 Working on [VTuber style logos ](https://github.com/syke9p3/Syke-VTuber-Icons)
+- 🌱 Learning [open-source contribution](https://intro.opensauced.pizza/#/README)
+- 📫 How to reach me: gargarkenth93@gmail.com
+- ⚡ My Personal Website : [syke9p3.vercel.app](https://syke9p3.vercel.app)
 - 😄 Pronouns: he/him
 <!-- 
 - 👯 I’m looking to collaborate on ... 
 - 💬 Ask me about ...
 - 🤔 I’m looking for help with ...
-- ⚡ Fun fact: ...
 
 -->
 
 ## Languages and Technologies
 
-These are the languages and technologies that I have experience with and applied in my past projects as well as the tools and platforms in my development process.
+List of languages, technologies, tools, and platforms I have experienced and applied in my past projects.
 
 
 ### Web Development

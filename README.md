@@ -1,4 +1,4 @@
-\> syke9p3
+\> My personal website: [syke9p3.vercel.app](https://syke9p3.vercel.app)
 
 ## Hello, I'm Kenth 👋
 

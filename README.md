@@ -1,4 +1,4 @@
-\> My personal website: [syke9p3.vercel.app](https://syke9p3.netlify.app)
+\> My personal website: [syke9p3.netlify.app](https://syke9p3.netlify.app)
 
 ## Hello, I'm Kenth 👋
 

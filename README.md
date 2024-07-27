@@ -1,5 +1,3 @@
-\> My personal website: [syke9p3.netlify.app](https://syke9p3.netlify.app)
-
 ## Hello, I'm Kenth 👋
 
 Aspiring fullstack developer studying Computer Science at PUP. Currently learning about open-source contributions.
@@ -7,7 +5,7 @@ Aspiring fullstack developer studying Computer Science at PUP. Currently learnin
 - 🔭 Working on [VTuber style logos ](https://github.com/syke9p3/Syke-VTuber-Icons)
 - 🌱 Learning [open-source contribution](https://intro.opensauced.pizza/#/README)
 - 📫 How to reach me: gargarkenth93@gmail.com
-- ⚡ My Personal Website : [syke9p3.vercel.app](https://syke9p3.vercel.app)
+- ⚡ My Personal Website : [syke9p3.netlify.app](https://syke9p3.netlify.app)
 - 😄 Pronouns: he/him
 <!-- 
 - 👯 I’m looking to collaborate on ... 

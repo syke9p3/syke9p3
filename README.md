@@ -1,6 +1,6 @@
 ## Hello, I'm Kenth 👋
 
-Aspiring fullstack developer studying Computer Science at PUP. Currently learning about open-source contributions.
+Aspiring fullstack developer studying Computer Science at PUP. Currently interest are open-source contributions.
 
 - 🔭 Working on [VTuber style logos ](https://github.com/syke9p3/Syke-VTuber-Icons)
 - 🌱 Learning [open-source contribution](https://intro.opensauced.pizza/#/README)

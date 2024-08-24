@@ -1,6 +1,6 @@
 ## Hello, I'm Kenth 👋
 
-Aspiring fullstack developer studying Computer Science at PUP. Currently learning more about open-source contributions.
+Aspiring software developer graduating with a Bachelor of Science in Computer Science. 
 
 - Email: gargarkenth93@gmail.com
 - Personal Website : https://syke9p3.netlify.app

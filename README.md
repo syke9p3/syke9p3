@@ -2,11 +2,9 @@
 
 Aspiring fullstack developer studying Computer Science at PUP. Currently interest are open-source contributions.
 
-- 🔭 Working on [VTuber style logos ](https://github.com/syke9p3/Syke-VTuber-Icons)
-- 🌱 Learning [open-source contribution](https://opensauced.pizza/learn/intro-to-oss)
-- 📫 How to reach me: gargarkenth93@gmail.com
-- ⚡ My Personal Website : [syke9p3.netlify.app](https://syke9p3.netlify.app)
-- 😄 Pronouns: he/him
+- Email: gargarkenth93@gmail.com
+- Personal Website : https://syke9p3.netlify.app
+- LinkedIn: https://www.linkedin.com/in/kenthsaya-ang/
 <!-- 
 - 👯 I’m looking to collaborate on ... 
 - 💬 Ask me about ...
